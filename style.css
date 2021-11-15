@@ -3,7 +3,10 @@
 }
 body {
   margin: 0px;
+  background-image: url('https://miro.medium.com/max/4242/1*ernPASfDczli3lUCAR-NPw.jpeg');
+  background-color: #cccccc;
 }
+
 .column-container {
   display: flex;
   width: 100%;
@@ -67,6 +70,7 @@ body {
   border-radius: 4px;
   display: flex;
   justify-content: space-between;
+  background-color: linen;
 }
 .producer-column {
   display: flex;
